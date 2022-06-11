@@ -8,6 +8,7 @@
 <p>Missile_cz.1			: Calculate Single/two-stage space rocket</p>
 <p>Airplane			: Calculate a supersonic aircraft</p>
 <p>Morse Alphabet - part 1	: Text --> Morse Alphabet</p>
+<p>Morse Alphabet - part 2	: Speaking --> Text --> Morse Alphabet</p>
 
 
 

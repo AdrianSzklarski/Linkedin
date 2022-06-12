@@ -14,6 +14,15 @@
 <p>Funny			: I'm talking to a girl</p>
 
 
-## Author:
-Programme code written by A.Szklarski 
+## Update descriptions:
+Aero_1.pdf		|Date of publication: 03.06.2022y |10.078 impressions: 11.06.2022y|
+Airplane.pdf		|Date of publication: 09.06.2022y |23.227 impressions: 11.06.2022y|
+Funny.mkv		|Date of publication: 10.06.2022y |14.955 impressions: 12.06.2022y|
+Missile_cz.1.pdf	|Date of publication: 07.06.2022y |17.754 impressions: 11.06.2022y|
+Mors.mp4		|Date of publication: 04.06.2022y |6865   impressions: 11.06.2022y|
+Mors2.mkv		|Date of publication: 08.06.2022y |9053   impressions: 11.06.2022y|
+Python_VS_TP7.0.pdf	|Date of publication: 05.06.2022y |330    impressions: 11.06.2022y|
 
+
+## Author:
+Programme code written by A.Szklarski  

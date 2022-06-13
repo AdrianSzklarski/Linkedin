@@ -5,13 +5,14 @@
    Aerodynmisc | Math | Dynamics of Flight | Systems Engineering |Aerospace| Missile |</p>
 
 ## Use of the programme:
-<p><strong>Aero_1</strong>			: Calculate the aerodynamic coefficients.</p>
-<p><strong>Python_VS_TP7.0</strong>		: Guess the password in three attempts. </p>
-<p><strong>Missile_cz.1</strong>		: Calculate Single/two-stage space rocket</p>
-<p><strong>Airplane</strong>			: Calculate a supersonic aircraft</p>
-<p><strong>Morse Alphabet - part 1</strong>	: Text --> Morse Alphabet</p>
-<p><strong>Morse Alphabet - part 2</strong>	: Speaking --> Text --> Morse Alphabet</p>
-<p><strong>Funny</strong>			: I'm talking to a girl</p>
+<p><strong>Aero_1</strong>					: Calculate the aerodynamic coefficients.</p>
+<p><strong>Python_VS_TP7.0</strong>				: Guess the password in three attempts. </p>
+<p><strong>Missile_cz.1</strong>				: Calculate Single/two-stage space rocket</p>
+<p><strong>Airplane</strong>					: Calculate a supersonic aircraft</p>
+<p><strong>Morse Alphabet - part 1</strong>			: Text --> Morse Alphabet</p>
+<p><strong>Morse Alphabet - part 2</strong>			: Speaking --> Text --> Morse Alphabet</p>
+<p><strong>Funny</strong>					: I'm talking to a girl</p>
+<p><strong>cz.1 Dynamika lotu poc w próżni</strong>		: The flight of a projectile in a vacuum</p>
 
 
 ## Update descriptions:
@@ -22,7 +23,7 @@ Missile_cz.1.pdf	|Date of publication: 07.06.2022y |17.754 impressions: 11.06.20
 Mors.mp4		|Date of publication: 04.06.2022y |6865   impressions: 11.06.2022y|<br>
 Mors2.mkv		|Date of publication: 08.06.2022y |9053   impressions: 11.06.2022y|<br>
 Python_VS_TP7.0.pdf	|Date of publication: 05.06.2022y |330    impressions: 11.06.2022y|<br>
-
+cz.1 Dynamika lotu poc w próżni.pdf	|Date of publication: 13.06.2022y |---    impressions: 13.06.2022y|<br>
 
 ## Author:
 Programme code written by A.Szklarski  

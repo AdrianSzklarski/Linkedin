@@ -14,6 +14,15 @@ https://www.linkedin.com/feed/update/urn:li:activity:6940995931156713472?updateE
 Rozmowa z google
 https://www.linkedin.com/feed/update/urn:li:activity:6941337015372152832?utm_source=linkedin_share&utm_medium=member_desktop_web
 
+cz.1 Dynamika lotu poc w próżni
+https://www.linkedin.com/feed/update/urn:li:activity:6942130144891314178/
+
+NOL
+https://www.linkedin.com/feed/update/urn:li:activity:6943251050501955584/
+
+Antena
+https://www.linkedin.com/feed/update/urn:li:groupPost:25827-6944070026857463808/
+
 
 
 

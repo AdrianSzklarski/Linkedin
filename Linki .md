@@ -23,6 +23,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:6940995931156713472?updateE
 <strong>Calculate the aerodynamic coefficients Part 1</strong>
 https://www.linkedin.com/feed/update/urn:li:activity:6939281736891568128?utm_source=linkedin_share&utm_medium=member_desktop_web
 
+Glider
+https://www.linkedin.com/feed/update/urn:li:activity:6945294094361366528/
+
 ## Various AVI:
 Morse
 https://www.linkedin.com/feed/update/urn:li:activity:6938796923818536960?utm_source=linkedin_share&utm_medium=member_desktop_web

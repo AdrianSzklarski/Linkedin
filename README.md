@@ -6,6 +6,7 @@
 
 ## Use of the programme:
 <p><strong>Calculate the aerodynamic coefficients Part 1</strong>					: Calculate the aerodynamic coefficients.</p>
+<p><strong>Glider</strong>										: The temperature of adiabatic stretching/time will the glider reach the ground?</p>
 <p><strong>Python_VS_TP7.0</strong>									: Guess the password in three attempts. </p>
 <p><strong>Missile_cz.1</strong>									: Calculate Single/two-stage space rocket</p>
 <p><strong>Airplane</strong>										: Calculate a supersonic aircraft</p>
@@ -20,6 +21,7 @@
 ## Update descriptions:
 <strong>Calculate the aerodynamic coefficients Part 1</strong>		|Date of publication: 03.06.2022y |10.078 impressions: 11.06.2022y|<br>
 Airplane.pdf		|Date of publication: 09.06.2022y |23.227 impressions: 11.06.2022y|<br>
+Glider.pdf		|Date of publication: 09.06.2022y |21.757 impressions: 23.06.2022y|<br>
 Funny.mkv		|Date of publication: 10.06.2022y |14.955 impressions: 12.06.2022y|<br>
 Missile_cz.1.pdf	|Date of publication: 07.06.2022y |17.754 impressions: 11.06.2022y|<br>
 Mors.mp4		|Date of publication: 04.06.2022y |6865   impressions: 11.06.2022y|<br>

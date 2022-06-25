@@ -13,7 +13,8 @@
 <p><strong>Morse Alphabet - part 1</strong>								: Text --> Morse Alphabet</p>
 <p><strong>Morse Alphabet - part 2</strong>								: Speaking --> Text --> Morse Alphabet</p>
 <p><strong>Funny</strong>										: I'm talking to a girl</p>
-<p><strong>cz.1 Dynamika lotu poc w próżni</strong>							: The flight of a projectile in a vacuum</p>
+<p><strong>Dynamics of projectile flight in vacuum part 1</strong>							: The flight of a projectile in a vacuum</p>
+<p><strong>Dynamics of projectile flight in vacuum part 2</strong>							: The flight of a projectile in a vacuum</p>
 <p><strong>NOL</strong>											: An unidentified flying object</p>
 <p><strong>Antena_cz.1</strong>										: A ground station</p>
 
@@ -27,7 +28,8 @@ Missile_cz.1.pdf	|Date of publication: 07.06.2022y |17.754 impressions: 11.06.20
 Mors.mp4		|Date of publication: 04.06.2022y |6865   impressions: 11.06.2022y|<br>
 Mors2.mkv		|Date of publication: 08.06.2022y |9053   impressions: 11.06.2022y|<br>
 Python_VS_TP7.0.pdf	|Date of publication: 05.06.2022y |330    impressions: 11.06.2022y|<br>
-cz.1 Dynamika lotu poc w próżni.pdf	|Date of publication: 13.06.2022y |19.543    impressions: 19.06.2022y|<br>
+<p><strong>Dynamics of projectile flight in vacuum part 1</strong>							: The flight of a projectile in a vacuum</p>.pdf	|Date of publication: 13.06.2022y |19.543.    impressions: 19.06.2022y|<br>
+<p><strong>Dynamics of projectile flight in vacuum part 2</strong>							: The flight of a projectile in a vacuum</p>.pdf	|Date of publication: 13.06.2022y |6240    impressions: 25.06.2022y|<br>
 NOL			|Date of publication: 16.06.2022y |<strong>39.268</strong>    impressions: 19.06.2022y|<br>
 Antena_cz.1		|Date of publication: 19.06.2022y |---    impressions: 11.06.2022y|<br>
 

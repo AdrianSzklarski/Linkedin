@@ -13,6 +13,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:6943251050501955584?utm_sou
 Dynamics of projectile flight in vacuum part 1 of 4
 https://www.linkedin.com/feed/update/urn:li:activity:6942130144891314178/
 
+Dynamics of projectile flight in vacuum part 2 of 4
+https://www.linkedin.com/feed/update/urn:li:activity:6946412021919711232/
+
 Space rocket 
 https://www.linkedin.com/feed/update/urn:li:activity:6940287450812452864?utm_source=linkedin_share&utm_medium=member_desktop_web
 

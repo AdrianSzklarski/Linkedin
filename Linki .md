@@ -46,5 +46,8 @@ https://www.linkedin.com/feed/update/urn:li:groupPost:25827-6944070026857463808/
 Python vs TP 7.0
 https://www.linkedin.com/posts/szklarskiadrian_i-was-bored-python-vs-turbo-pascal-70-activity-6938264660416585728-fsq5?utm_source=linkedin_share&utm_medium=member_desktop_web
 
+Ghost
+https://www.linkedin.com/feed/update/urn:li:activity:6948220384613695488/
+
 ## Author:
 Programme code written by A.Szklarski  

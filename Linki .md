@@ -19,6 +19,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:6946412021919711232/
 Space rocket 
 https://www.linkedin.com/feed/update/urn:li:activity:6940287450812452864?utm_source=linkedin_share&utm_medium=member_desktop_web
 
+Python and SatrunV Part1
+https://www.linkedin.com/feed/update/urn:li:activity:6948941336033042432/
+
 ## Aviation:
 Aircraft supersonic 
 https://www.linkedin.com/feed/update/urn:li:activity:6940995931156713472?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6940995931156713472%29

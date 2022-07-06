@@ -1,37 +1,59 @@
 <p> My programs published on Linkedin </p>
+<p> Links </p>
 
 ## Technologies:
 <p>Python3 | HTML | CSS | SASS | JavaScript | PyCharm | Visual Studio Code | PostgreSQL | Django3.0 | Linux - Ubuntu |
    Aerodynmisc | Math | Dynamics of Flight | Systems Engineering |Aerospace| Missile |</p>
 
-## Use of the programme: [13?]
-<p><strong>Calculate the aerodynamic coefficients Part 1</strong>					: Calculate the aerodynamic coefficients.</p>
-<p><strong>Glider</strong>										: The temperature of adiabatic stretching/time will the glider reach the ground?</p>
-<p><strong>Python_VS_TP7.0</strong>									: Guess the password in three attempts. </p>
-<p><strong>Missile_cz.1</strong>									: Calculate Single/two-stage space rocket</p>
-<p><strong>Airplane</strong>										: Calculate a supersonic aircraft</p>
-<p><strong>Morse Alphabet - part 1</strong>								: Text --> Morse Alphabet</p>
-<p><strong>Morse Alphabet - part 2</strong>								: Speaking --> Text --> Morse Alphabet</p>
-<p><strong>Funny</strong>										: I'm talking to a girl</p>
-<p><strong>Dynamics of projectile flight in vacuum part 1</strong>							: The flight of a projectile in a vacuum</p>
-<p><strong>Dynamics of projectile flight in vacuum part 2</strong>							: The flight of a projectile in a vacuum</p>
-<p><strong>NOL</strong>											: An unidentified flying object</p>
-<p><strong>Antena_cz.1</strong>										: A ground station</p>
-<p><strong>Ghost</strong>										: Heat transfer</p>
+## An unidentified flying object:
+NOL Part1
+https://www.linkedin.com/feed/update/urn:li:activity:6943251050501955584?utm_source=linkedin_share&utm_medium=member_desktop_web
 
-## Update descriptions:
-<strong>Calculate the aerodynamic coefficients Part 1</strong>		|Date of publication: 03.06.2022y |10.078 impressions: 11.06.2022y|<br>
-Airplane.pdf		|Date of publication: 09.06.2022y |23.227 impressions: 11.06.2022y|<br>
-Glider.pdf		|Date of publication: 09.06.2022y |21.757 impressions: 23.06.2022y|<br>
-Funny.mkv		|Date of publication: 10.06.2022y |14.955 impressions: 12.06.2022y|<br>
-Missile_cz.1.pdf	|Date of publication: 07.06.2022y |18.221 impressions: 26.06.2022y|<br>
-Mors.mp4		|Date of publication: 04.06.2022y |6865   impressions: 11.06.2022y|<br>
-Mors2.mkv		|Date of publication: 08.06.2022y |9053   impressions: 11.06.2022y|<br>
-Python_VS_TP7.0.pdf	|Date of publication: 05.06.2022y |330    impressions: 11.06.2022y|<br>
-<p><strong>Dynamics of projectile flight in vacuum part 1</strong>							: The flight of a projectile in a vacuum</p>.pdf	|Date of publication: 13.06.2022y |19.652.    impressions: 26.06.2022y|<br>
-<p><strong>Dynamics of projectile flight in vacuum part 2</strong>							: The flight of a projectile in a vacuum</p>.pdf	|Date of publication: 13.06.2022y |16.345   impressions: 26.06.2022y|<br>
-NOL			|Date of publication: 16.06.2022y |<strong>40.022</strong>    impressions: 26.06.2022y|<br>
-Antena_cz.1		|Date of publication: 19.06.2022y |---    impressions: 11.06.2022y|<br>
-Ghost			|Date of publication: 30.06.2022y |---    impressions: ---|<br>
+NOL2
+https://www.linkedin.com/feed/update/urn:li:activity:6949681333698760704/
+
+## Military, space technologies: missiles, and space rockets:
+Dynamics of projectile flight in vacuum part 1 of 4
+https://www.linkedin.com/feed/update/urn:li:activity:6942130144891314178/
+
+Dynamics of projectile flight in vacuum part 2 of 4
+https://www.linkedin.com/feed/update/urn:li:activity:6946412021919711232/
+
+Space rocket 
+https://www.linkedin.com/feed/update/urn:li:activity:6940287450812452864?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+Python and SatrunV Part1
+https://www.linkedin.com/feed/update/urn:li:activity:6948941336033042432/
+
+## Aviation:
+Aircraft supersonic 
+https://www.linkedin.com/feed/update/urn:li:activity:6940995931156713472?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6940995931156713472%29
+
+<strong>Calculate the aerodynamic coefficients Part 1</strong>
+https://www.linkedin.com/feed/update/urn:li:activity:6939281736891568128?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+Glider
+https://www.linkedin.com/feed/update/urn:li:activity:6945294094361366528/
+
+## Various AVI:
+Morse
+https://www.linkedin.com/feed/update/urn:li:activity:6938796923818536960?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+English - Morse: 
+https://www.linkedin.com/feed/update/urn:li:activity:6940248026766569473?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6940248026766569473%29
+
+Talking to google 
+https://www.linkedin.com/feed/update/urn:li:activity:6941337015372152832?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+## Various other:
+Antena 
+https://www.linkedin.com/feed/update/urn:li:groupPost:25827-6944070026857463808/
+
+Python vs TP 7.0
+https://www.linkedin.com/posts/szklarskiadrian_i-was-bored-python-vs-turbo-pascal-70-activity-6938264660416585728-fsq5?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+Ghost
+https://www.linkedin.com/feed/update/urn:li:activity:6948220384613695488/
+
 ## Author:
 Programme code written by A.Szklarski  

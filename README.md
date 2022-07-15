@@ -9,8 +9,11 @@
 NOL Part1
 https://www.linkedin.com/feed/update/urn:li:activity:6943251050501955584?utm_source=linkedin_share&utm_medium=member_desktop_web
 
-NOL2
+NOL2 Part2
 https://www.linkedin.com/feed/update/urn:li:activity:6949681333698760704/
+
+## Space
+https://www.linkedin.com/feed/update/urn:li:activity:6950754225324740609/
 
 ## Military, space technologies: missiles, and space rockets:
 Dynamics of projectile flight in vacuum part 1 of 4
@@ -24,6 +27,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:6940287450812452864?utm_sou
 
 Python and SatrunV Part1
 https://www.linkedin.com/feed/update/urn:li:activity:6948941336033042432/
+
+Tank
+https://www.linkedin.com/feed/update/urn:li:activity:6952929391458852864/
 
 ## Aviation:
 Aircraft supersonic 

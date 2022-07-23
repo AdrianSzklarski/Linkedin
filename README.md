@@ -13,6 +13,7 @@ NOL2 Part2
 https://www.linkedin.com/feed/update/urn:li:activity:6949681333698760704/
 
 ## Space
+Universum_sphere
 https://www.linkedin.com/feed/update/urn:li:activity:6950754225324740609/
 
 ## Military, space technologies: missiles, and space rockets:
